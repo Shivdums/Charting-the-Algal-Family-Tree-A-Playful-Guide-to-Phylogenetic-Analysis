@@ -1,0 +1,182 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style>
+<!--
+object{width:256px;overflow:hidden;text-overflow:ellipsis;}
+table{border-collapse:collapse;border-spacing:0;border:black solid 2px;}
+table th{mso-style-parent:style0;mso-number-format:"\@";border:black solid 1px;background:#ececec}
+table td{mso-style-parent:style0;mso-number-format:"\@";border:black solid 1px;}
+br{mso-data-placement:same-cell;}
+-->
+</style>
+
+</head>
+<body>
+<table-wrap id="t1-algae-2021-36-4-333" position="float">
+<label>Table 1</label>
+<div class='caption'>
+<p>Summary statistics of dinoflagellate transcriptomes used in this study</p></div>
+<table frame="hsides" rules="groups">
+<thead>
+<tr>
+<th valign="middle" rowspan="3" align="center">Species</th>
+<th valign="middle" rowspan="3" align="center">SRA accession</th>
+<th colspan="2" valign="middle" align="center">Raw data</th>
+<th valign="middle" rowspan="3" align="center"><i>De novo</i> transcriptome assembly<br/>No. of assembled transcripts</th>
+<th valign="middle" rowspan="3" align="center">Open reading frame prediction<br/>No. of non-redundant unigenes</th></tr>
+<tr>
+<th colspan="2" valign="middle" align="center">
+<hr/></th></tr>
+<tr>
+<th valign="middle" align="center">Total bases (bp)</th>
+<th valign="middle" align="center">No. of reads</th></tr></thead>
+<tbody>
+<tr>
+<td valign="top" align="left"><i>Alexandrium affine</i></td>
+<td valign="top" align="left">SRR10426049</td>
+<td valign="top" align="right">8,339,693,458</td>
+<td valign="top" align="right">55,229,758</td>
+<td valign="top" align="right">151,908</td>
+<td valign="top" align="right">98,575</td></tr>
+<tr>
+<td valign="top" align="left"><i>Alexandrium minutum</i></td>
+<td valign="top" align="left">ERR1558595</td>
+<td valign="top" align="right">6,829,726,800</td>
+<td valign="top" align="right">68,297,268</td>
+<td valign="top" align="right">159,701</td>
+<td valign="top" align="right">91,556</td></tr>
+<tr>
+<td valign="top" align="left"><i>Alexandrium pacificum</i></td>
+<td valign="top" align="left">SRR10426048</td>
+<td valign="top" align="right">8,609,710,450</td>
+<td valign="top" align="right">57,017,950</td>
+<td valign="top" align="right">153,976</td>
+<td valign="top" align="right">96,747</td></tr>
+<tr>
+<td valign="top" align="left"><i>Crypthecodinium cohnii</i></td>
+<td valign="top" align="left">SRR5277468</td>
+<td valign="top" align="right">4,473,194,700</td>
+<td valign="top" align="right">29,821,298</td>
+<td valign="top" align="right">180,463</td>
+<td valign="top" align="right">84,768</td></tr>
+<tr>
+<td valign="top" align="left"><i>Gonyaulax spinifera</i></td>
+<td valign="top" align="left">SRR1300518</td>
+<td valign="top" align="right">2,631,976,200</td>
+<td valign="top" align="right">52,639,524</td>
+<td valign="top" align="right">75,677</td>
+<td valign="top" align="right">38,623</td></tr>
+<tr>
+<td valign="top" align="left"><i>Lingulodinium polyedra</i></td>
+<td valign="top" align="left">SRX090641</td>
+<td valign="top" align="right">45,999,584,404</td>
+<td valign="top" align="right">518,980,453</td>
+<td valign="top" align="right">212,804</td>
+<td valign="top" align="right">122,798</td></tr>
+<tr>
+<td valign="top" align="left"><i>Protoceratium reticulatum</i></td>
+<td valign="top" align="left">SRR1296738</td>
+<td valign="top" align="right">2,343,479,600</td>
+<td valign="top" align="right">46,869,592</td>
+<td valign="top" align="right">108,095</td>
+<td valign="top" align="right">65,535</td></tr>
+<tr>
+<td valign="top" align="left"><i>Amphidinium carterae</i></td>
+<td valign="top" align="left">SRR1610335</td>
+<td valign="top" align="right">3,042,776,298</td>
+<td valign="top" align="right">30,126,498</td>
+<td valign="top" align="right">82,274</td>
+<td valign="top" align="right">50,133</td></tr>
+<tr>
+<td valign="top" align="left"><i>Gymnodinium catenatum</i></td>
+<td valign="top" align="left">SRR1296705</td>
+<td valign="top" align="right">3,673,570,000</td>
+<td valign="top" align="right">73,471,400</td>
+<td valign="top" align="right">121,935</td>
+<td valign="top" align="right">75,074</td></tr>
+<tr>
+<td valign="top" align="left"><i>Noctiluca scintillans</i></td>
+<td valign="top" align="left">SRR1296929</td>
+<td valign="top" align="right">2,498,412,800</td>
+<td valign="top" align="right">49,968,256</td>
+<td valign="top" align="right">65,313</td>
+<td valign="top" align="right">44,709</td></tr>
+<tr>
+<td valign="top" align="left"><i>Oxyrrhis marina</i></td>
+<td valign="top" align="left">SRR1296901</td>
+<td valign="top" align="right">6,209,966,400</td>
+<td valign="top" align="right">62,099,664</td>
+<td valign="top" align="right">136,039</td>
+<td valign="top" align="right">63,723</td></tr>
+<tr>
+<td valign="top" align="left"><i>Brandtodinium nutricula</i></td>
+<td valign="top" align="left">SRR1300537</td>
+<td valign="top" align="right">2,043,267,100</td>
+<td valign="top" align="right">40,865,342</td>
+<td valign="top" align="right">100,792</td>
+<td valign="top" align="right">61,282</td></tr>
+<tr>
+<td valign="top" align="left"><i>Durinskia baltica</i></td>
+<td valign="top" align="left">SRR1296839</td>
+<td valign="top" align="right">2,349,621,600</td>
+<td valign="top" align="right">46,992,432</td>
+<td valign="top" align="right">124,574</td>
+<td valign="top" align="right">70,379</td></tr>
+<tr>
+<td valign="top" align="left"><i>Heterocapsa arctica</i></td>
+<td valign="top" align="left">SRR1300520</td>
+<td valign="top" align="right">2,733,720,500</td>
+<td valign="top" align="right">54,674,410</td>
+<td valign="top" align="right">75,927</td>
+<td valign="top" align="right">40,382</td></tr>
+<tr>
+<td valign="top" align="left"><i>Heterocapsa rotundata</i></td>
+<td valign="top" align="left">SRR1296810</td>
+<td valign="top" align="right">2,162,826,300</td>
+<td valign="top" align="right">43,256,526</td>
+<td valign="top" align="right">70,471</td>
+<td valign="top" align="right">41,409</td></tr>
+<tr>
+<td valign="top" align="left"><i>Heterocapsa triquetra</i></td>
+<td valign="top" align="left">SRR1296978</td>
+<td valign="top" align="right">2,267,966,600</td>
+<td valign="top" align="right">45,359,332</td>
+<td valign="top" align="right">100,147</td>
+<td valign="top" align="right">53,038</td></tr>
+<tr>
+<td valign="top" align="left"><i>Kryptoperidinium foliaceum</i></td>
+<td valign="top" align="left">SRR1296840</td>
+<td valign="top" align="right">3,674,222,600</td>
+<td valign="top" align="right">73,484,452</td>
+<td valign="top" align="right">118,442</td>
+<td valign="top" align="right">57,931</td></tr>
+<tr>
+<td valign="top" align="left"><i>Polarella glacialis</i></td>
+<td valign="top" align="left">SRR401178</td>
+<td valign="top" align="right">5,335,148,052</td>
+<td valign="top" align="right">68,399,334</td>
+<td valign="top" align="right">195,466</td>
+<td valign="top" align="right">80,746</td></tr>
+<tr>
+<td valign="top" align="left"><i>Symbiodinium minutum</i></td>
+<td valign="top" align="left">DRR003869</td>
+<td valign="top" align="right">5,964,317,250</td>
+<td valign="top" align="right">79,524,230</td>
+<td valign="top" align="right">91,950</td>
+<td valign="top" align="right">52,830</td></tr>
+<tr>
+<td valign="top" align="left"><i>Scrippsiella trochoidea</i></td>
+<td valign="top" align="left">SRX1032815</td>
+<td valign="top" align="right">13,980,008,700</td>
+<td valign="top" align="right">77,666,715</td>
+<td valign="top" align="right">683,846</td>
+<td valign="top" align="right">252,310</td></tr>
+<tr>
+<td valign="top" align="left"><i>Perkinsus marinus</i></td>
+<td valign="top" align="left">SRR1154655</td>
+<td valign="top" align="right">3,073,904,064</td>
+<td valign="top" align="right">32,019,834</td>
+<td valign="top" align="right">40,037</td>
+<td valign="top" align="right">18,098</td></tr></tbody></table></table-wrap></body>
+</html>
