@@ -1,6 +1,8 @@
 # Charting-the-Algal-Family-Tree-A-Playful-Guide-to-Phylogenetic-Analysis
 The phylogenetic analysis of dinoflagellates' transcriptomic data reveals their evolutionary history and genetic diversity, shedding light on their adaptation to diverse environments. This understanding aids ecological conservation and biotechnological innovation.
 The broader application of this protocol is emphasized in the context of marine organisms, where obtaining complete genome sequences for all species is often impractical. Large-scale phylogenetics using genome or transcriptome sequences has become a standard tool for studying evolutionary relationships in marine organisms, contributing essential insights into their diversity and evolutionary history.
+
+
 Methodology in brief:
 1. Obtained (mRNA) FASTA sequences of dinoflagellate organisms from NCBI.
 2. Compiled sequences in a text editor (Notepad).
@@ -8,6 +10,8 @@ Methodology in brief:
 4. Saved the aligned sequences as a .fasta file.
 5. Utilized MEGA software to construct a phylogenetic tree.
 6. The phylogenetic tree displayed branches representing evolutionary relationships among dinoflagellate species.
+
+
 Result and Conclusions:
 The files Above are of the Phylogenetic tree constructed on Dinoflagellate protists and u can observe the Relationship among the trees by the branch length and subtrees to understand who the common ancestors are.
 Here is an detailed Analysis to understand the tree and the relationship of diff Dinoflagellates :
