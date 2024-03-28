@@ -15,14 +15,23 @@ Methodology in brief:
 Result and Conclusions:
 The files Above are of the Phylogenetic tree constructed on Dinoflagellate protists and u can observe the Relationship among the trees by the branch length and subtrees to understand who the common ancestors are.
 Here is an detailed Analysis to understand the tree and the relationship of diff Dinoflagellates :
+
 Here’s a breakdown of the relationships shown in the tree:
+
 Cryptoperidinium cohnii is the most distantly related dinoflagellate in this group.
+
 Gymnodinium catenatum and Breviolum minutum are most closely related to each other than they are to any other dinoflagellate in the image.
+
 Kryptoperidinium foliaceum and Perkinsus marinus are also closely related.
+
 Alexandrium pacificum and Alexandrium affine are closely related.
+
 Heterocapsa rotundata and TSA: Heterocapsa arctica are closely related.
+
 Alexandrium minutum is closely related to Alexandrium pacificum and Alexandrium affine
+
 Noctiluca scintillans and Oxyrrhis marina are distantly related to all the other dinoflagellates.
+
 Note:
 Shorter branches: Indicate closer evolutionary relationships between the species they connect. These species likely share a more recent common ancestor.
 Longer branches: Suggest a more distant evolutionary relationship. These species diverged from their common ancestor further back in time.
